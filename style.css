@@ -14,7 +14,7 @@ header {
 	width:100%;
 	background-color: #dc8ac5;
 	height:150px;
-    padding: 5px;
+    /* padding: 5px; */
 }
 header .header-container {
 	position: absolute;
@@ -66,9 +66,9 @@ main form{
     padding: 2dvh;
 }
  .main-content {
-	width: 100%;
+	    width: 100%;
     max-width: 980px;
-	margin: 2dvh;
+	    margin: 2dvh;
  }
 
 table {
@@ -104,8 +104,8 @@ tr.last{
 form {
     display: flex;
     margin: 0 auto;
-	background-color: #f9d5f7e0;
-	flex-wrap: wrap;
+        background-color: #f9d5f7e0;
+        flex-wrap: wrap;
 }
 form div {
     margin: 1dvh;
@@ -204,7 +204,7 @@ header {
 
 header .header-container {
 	width: 100%;
-	max-width: 980px;
+	max-width: 960px;
 	margin: 0 auto;
 	height: 100px;
 	display: flex;
@@ -273,8 +273,8 @@ form {
     display: flex;
     max-width: 700px;
     margin: 0 auto;
-	background-color: #f9d5f7e0;
-	border-radius: 10px;
+        background-color: #f9d5f7e0;
+        border-radius: 10px;
 }
 footer {
     background-color: #dc8ac5a6;
