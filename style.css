@@ -88,7 +88,7 @@ main form{
     order: 3;
 }
  .main-back{
-    width: 0 auto;
+    width: 100%;
     margin-top: 15px;
     background-color: #f9d5f7e0;
     padding: 2dvh;
